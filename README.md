@@ -1,1 +1,1 @@
-# movielens-recommendation-pipeline
+# movie-recommendation-pipeline
